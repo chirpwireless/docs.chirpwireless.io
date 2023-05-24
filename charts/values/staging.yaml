@@ -1,0 +1,15 @@
+fullnameOverride: "docs-iot"
+ingress:
+  enabled: true
+  className: "nginx-external"
+  annotations:
+    cert-manager.io/cluster-issuer: chirpwireless
+  hosts:
+    - host: docs-iot.staging.internal.chirpwireless.io
+      paths:
+        - path: /
+          pathType: ImplementationSpecific
+  tls: 
+   - secretName: docs-iot-tls
+     hosts:
+       - docs-iot.staging.internal.chirpwireless.io

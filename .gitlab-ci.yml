@@ -1,0 +1,59 @@
+stages:
+  - build
+  - deploy
+
+include:
+  - project: chirpwireless/ci
+    file: general.yaml
+  - project: chirpwireless/ci
+    file: build-image.yaml
+  - project: chirpwireless/ci
+    file: helm.yaml
+
+
+variables:
+  IMAGE_NAME: registry.gitlab.com/chirpwireless/docs-iot
+  IMAGE_TAG: $CI_COMMIT_SHORT_SHA
+  HELM_CHART_PATH: ./charts/docs-iot
+  HELM_RELEASE_NAME: docs-iot
+
+
+
+build:
+  extends: 
+    - .default
+    - .build-image
+  when: manual
+  stage: build
+
+
+deploy:staging:
+  stage: deploy
+  environment:
+    name: staging
+    url: http://docs-iot.internal.chirpwireless.io
+  variables:
+    EKS_CLUSTER_NAME: staging
+    NAMESPACE: staging
+    VALUES_FILE: ./charts/values/staging.yaml
+    HELM_RELEASE_NAME: docs-iot
+  extends:
+    - .default
+    - .helm-deploy
+  needs:
+    - build
+
+##deploy:prod:
+#  stage: deploy
+#  environment:
+#    name: prod
+#    url: https://docs-iot.prod.internal.chirpwireless.io
+#  variables:
+#    EKS_CLUSTER_NAME: prod
+#    NAMESPACE: docs-iot
+#    VALUES_FILE: ./charts/values/prod.yaml
+#  extends:
+#    - .default
+#    - .helm-deploy
+#  needs:
+#    - build

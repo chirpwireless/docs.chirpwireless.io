@@ -1,0 +1,14 @@
+ingress:
+  enabled: true
+  className: "nginx"
+  annotations:
+    cert-manager.io/cluster-issuer: chirpwireless.io
+  hosts:
+    - host: docs.chirpwireless.io
+      paths:
+        - path: /
+          pathType: ImplementationSpecific
+  tls: 
+   - secretName: docs-tls
+     hosts:
+       - docs.chirpwireless.io
