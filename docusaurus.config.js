@@ -48,7 +48,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Mining Wiki',
+            label: 'Wiki',
           },
           {
             type: 'doc',
