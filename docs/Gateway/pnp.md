@@ -1,6 +1,6 @@
---
+---
 sidebar_position: 4
---
+---
 
 # Plug and Play
 The key advantage of Chirp's gateway is its plug-and-play simplicity. With Chirp, starting your IoT automation journey has never been easier. All you need to do is plug in the gateway, and you can immediately start adding devices to the network. There's no complex setup or configuration required, eliminating the need for extensive technical knowledge or programming skills.
