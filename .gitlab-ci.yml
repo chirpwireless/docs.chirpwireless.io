@@ -43,17 +43,17 @@ deploy:staging:
   needs:
     - build
 
-##deploy:prod:
-#  stage: deploy
-#  environment:
-#    name: prod
-#    url: https://docs-iot.prod.internal.chirpwireless.io
-#  variables:
-#    EKS_CLUSTER_NAME: prod
-#    NAMESPACE: docs-iot
-#    VALUES_FILE: ./charts/values/prod.yaml
-#  extends:
-#    - .default
-#    - .helm-deploy
-#  needs:
-#    - build
+deploy:prod:
+  stage: deploy
+  environment:
+    name: prod
+    url: https://docs.chirpwireless.io
+  variables:
+    EKS_CLUSTER_NAME: prod
+    NAMESPACE: docs-iot
+    VALUES_FILE: ./charts/values/prod.yaml
+  extends:
+    - .default
+    - .helm-deploy
+  needs:
+    - build
