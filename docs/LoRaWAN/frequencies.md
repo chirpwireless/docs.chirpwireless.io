@@ -56,4 +56,34 @@ The frequency plan provided here is intended for reference purposes only. While 
 ## C
 | Country      | Frequency Plan |
 | ----------- | ----------- |
+| Cabo Verde (CV)      |  EU433  EU863-870    |
+| Cambodia (KH)      |  AS923-1  EU863-870    |
+| Cameroon (CM)      |  EU433     |
+| Canada (CA)      |  US902-928 US915-928    |
 | Bhutan (BT)      |  EU433  EU863-870    |
+| Bhutan (BT)      |  EU433  EU863-870    |
+| Bhutan (BT)      |  EU433  EU863-870    |
+| Bhutan (BT)      |  EU433  EU863-870    |
+| Bhutan (BT)      |  EU433  EU863-870    |
+| Bhutan (BT)      |  EU433  EU863-870    |
+| Bhutan (BT)      |  EU433  EU863-870    |
+| Bhutan (BT)      |  EU433  EU863-870    |
+| Bhutan (BT)      |  EU433  EU863-870    |
+| Bhutan (BT)      |  EU433  EU863-870    |
+| Bhutan (BT)      |  EU433  EU863-870    |
+| Bhutan (BT)      |  EU433  EU863-870    |
+| Bhutan (BT)      |  EU433  EU863-870    |
+| Bhutan (BT)      |  EU433  EU863-870    |
+| Bhutan (BT)      |  EU433  EU863-870    |
+| Bhutan (BT)      |  EU433  EU863-870    |
+| Bhutan (BT)      |  EU433  EU863-870    |
+| Bhutan (BT)      |  EU433  EU863-870    |
+
+## D
+| Country      | Frequency Plan |
+| ----------- | ----------- |
+| Bhutan (BT)      |  EU433  EU863-870    |
+| Bhutan (BT)      |  EU433  EU863-870    |
+| Bhutan (BT)      |  EU433  EU863-870    |
+| Bhutan (BT)      |  EU433  EU863-870    |
+
