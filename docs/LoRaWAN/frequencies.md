@@ -9,6 +9,8 @@ The frequency plan provided here is intended for reference purposes only. While 
 
 | Country      | Frequency |
 | ----------- | ----------- |
+
+## A
 | Afghanistan (AF)      |        |
 | Aland Islands (AX)  |        |
 | Albania (AL)  |        |  |        |
