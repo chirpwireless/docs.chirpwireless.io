@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # What is Cerllular IoT?
 
-Cellular IoT connectivity refers to the ability of IoT (Internet of Things) devices to connect and communicate using cellular networks, which are widely available in almost every country around the world. This connectivity option offers several advantages, including reliable coverage and connectivity due to the extensive reach of cellular networks. Devices utilizing cellular IoT connectivity can establish connections even in remote areas, enhancing their functionality and potential use cases.
+Cellular IoT connectivity refers to the ability of IoT (Internet of Things) devices to connect and communicate using cellular networks, which are widely available in almost every country around the world. This connectivity option offers several advantages, including reliable coverage and connectivity due to the extensive reach of cellular networks. 
 
 One of the notable advantages of cellular connectivity is its capability for real-time tracking, making it a perfect choice for applications like fleet management. Additionally, cellular networks have the capacity to transmit large amounts of data, making them suitable for tasks such as remote video monitoring. This broader data transmission capability is a significant advantage over low-power technologies that may have limitations in data-intensive applications.
 
