@@ -30,7 +30,6 @@ The frequency plan provided here is intended for reference purposes only. While 
 ## B
 | Country      | Frequency Plan |
 | ----------- | ----------- |
-
 | Bahamas (BS)      |  US902-928    |
 | Bahrain (BH)      |  EU433  EU863-870    |
 | Bangladesh (BD)      |  EU433   AS923-1   |
