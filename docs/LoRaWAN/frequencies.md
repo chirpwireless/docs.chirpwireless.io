@@ -22,19 +22,21 @@ The frequency plan provided here is intended for reference purposes only. While 
 | Armenia (AM)      |  EU433  EU863-870    |
 | Aruba (AW)      |      |
 | Australia (AU)      |  AS923-1  AU915-928  |
+| Austria (AT)      |  EU433  EU863-870    |
+| Azerbaijan (AZ)      |  EU433    |
 
 
 
 ## B
 | Country      | Frequency Plan |
 | ----------- | ----------- |
-| Austria (AT)      |  EU433  EU863-870    |
-| Austria (AT)      |  EU433  EU863-870    |
-| Austria (AT)      |  EU433  EU863-870    |
-| Austria (AT)      |  EU433  EU863-870    |
-| Austria (AT)      |  EU433  EU863-870    |
-| Austria (AT)      |  EU433  EU863-870    |
-| Austria (AT)      |  EU433  EU863-870    |
-| Austria (AT)      |  EU433  EU863-870    |
-| Austria (AT)      |  EU433  EU863-870    |
-| Austria (AT)      |  EU433  EU863-870    |
+
+| Bahamas (BS)      |  US902-928    |
+| Bahrain (BH)      |  EU433  EU863-870    |
+| Bangladesh (BD)      |  EU433   AS923-1   |
+| Barbados (BB)      |  AU915-928  AU902-928    |
+| Belarus (BY)      |  EU433  EU863-870    |
+| Belgium (BE)      |  EU433  EU863-870    |
+| Belize (BZ)      |  AU915-928  AU902-928    |
+| Benin (BJ)      |  US902-9281    |
+| Bhutan (BT)      |  EU433  EU863-870    |
