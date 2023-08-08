@@ -9,6 +9,6 @@ The frequency plan provided here is intended for reference purposes only. While 
 
 | Country      | Frequency |
 | ----------- | ----------- |
-| Afghanistan (AF)      | Title       |
-| Paragraph   | Text        |Country                      Frequency Plan          
-Afghanistan (AF)
+| Afghanistan (AF)      |        |
+| Aland Islands (AX)  |        |
+| Albania (AL)  |        |  |        |
