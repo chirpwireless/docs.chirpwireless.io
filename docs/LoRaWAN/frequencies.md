@@ -13,3 +13,12 @@ The frequency plan provided here is intended for reference purposes only. While 
 | Aland Islands (AX)  |   EU433  EU863-870   |
 | Albania (AL)  |  EU433 EU863-870  AS923-3   |  
 | Algeria (DZ)      |  EU433  AS923-3    |
+| American Samoa (AS)      |  US902-928    |
+| Andorra (AD)     |  EU433  EU863-870    |
+| Angola (AO)      |      |
+| Antigua and Barbuda (AG)      |      |
+| Algeria (DZ)      |  EU433  AS923-3    |
+| Algeria (DZ)      |  EU433  AS923-3    |
+| Algeria (DZ)      |  EU433  AS923-3    |
+| Algeria (DZ)      |  EU433  AS923-3    |
+| Algeria (DZ)      |  EU433  AS923-3    |
