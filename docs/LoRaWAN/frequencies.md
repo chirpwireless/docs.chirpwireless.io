@@ -4,6 +4,8 @@ sidebar_position: 6
 
 # LoRaWAN frequencies by country
 
+Chirp's network is designed to accommodate multiple communication protocols, including the global availability of LoRa 2.4 GHz. However, our gateways are also equipped to support local frequency bands based on specific regions. Frequency bands can vary significantly depending on the geographical location. To determine the frequency band used in your country, please refer to the information provided below.
+
 ## Frequency Plan Disclaimer:
 The frequency plan provided here is intended for reference purposes only. While we have made efforts to ensure its accuracy to the best of our knowledge, Chirp Wireless does not assume responsibility for its precision. Individuals deploying gateways are strongly advised to thoroughly check and adhere to local regulations and legal requirements pertaining to radio frequency usage before deploying any IoT solution. It is the responsibility of the user to ensure compliance with applicable laws and guidelines in their respective regions.
 
