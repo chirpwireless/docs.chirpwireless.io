@@ -42,16 +42,16 @@ The frequency plan provided here is intended for reference purposes only. While 
 | Benin (BJ)      |  US902-9281    |
 | Bhutan (BT)      |  EU433  EU863-870    |
 | Bolivia (BO)      |  AU915-928  AU902-928 |
-| Bonaire, Sint Eustatius and Saba (BQ)      |  EU433  EU863-870    |
-| Bhutan (BT)      |  EU433  EU863-870    |
-| Bhutan (BT)      |  EU433  EU863-870    |
-| Bhutan (BT)      |  EU433  EU863-870    |
-| Bhutan (BT)      |  EU433  EU863-870    |
-| Bhutan (BT)      |  EU433  EU863-870    |
-| Bhutan (BT)      |  EU433  EU863-870    |
-| Bhutan (BT)      |  EU433  EU863-870    |
-| Bhutan (BT)      |  EU433  EU863-870    |
-| Bhutan (BT)      |  EU433  EU863-870    |
+| Bonaire, Saint Eustatius and Saba (BQ)      |  EU433  EU863-870    |
+| Bosnia and Herzegovina (BA)      |  EU433  EU863-870    |
+| Botswana (BW)      |  EU433  EU863-870    |
+| Bouvet Island (BV)      |  EU433  EU863-870   AS923-3 |
+| Brazil (BR)      |  EU433  AU915-928    |
+| British Indian Ocean Territory (IO)      |      |
+| Brunei Darussalam (BN)      |  EU433  EU863-870 AS923-1   |
+| Bulgaria (BG)      |  EU433  EU863-870    |
+| Burundi (BI)      |  EU433  EU863-870    |
+| Burkina Faso (BF)      |      |
 
 ## C
 | Country      | Frequency Plan |
