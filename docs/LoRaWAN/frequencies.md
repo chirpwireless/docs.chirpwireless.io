@@ -98,3 +98,35 @@ The frequency plan provided here is intended for reference purposes only. While 
 | Eswatini (SZ)      |      |
 | Ethiopia (ET)      |      |
 
+## F
+| Country      | Frequency Plan |
+| ----------- | ----------- |
+| Falkland Islands (FK)      |  EU433  EU863-870    |
+| Faroe Islands (FO)      |  EU433  EU863-870    |
+| Fiji (FJ)      |      |
+| Finland (FI)      |  EU433  EU863-870    |
+| France (FR)      |  EU433  EU863-870    |
+| French Guiana (GF)      |  EU433  EU863-870    |
+| French Polynesia (PF)      |  EU433  EU863-870    |
+| French Southern Territories (TF)      |  EU433  EU863-870    |
+
+## G
+| Country      | Frequency Plan |
+| ----------- | ----------- |
+| Gabon (GA)      |      |
+| Gambia (GM)      |  EU433     |
+| Georgia (GE)      |  EU433  EU863-870    |
+| Germany (DE)      |  EU433  EU863-870    |
+| Ghana (GH)      |  EU433     |
+| Gibraltar (GI)      |  EU433  EU863-870    |
+| Greece (GR)      |  EU433  EU863-870    |
+| Greenland (GL)      |  EU433  EU863-870  AS923-3  |
+| Grenada (GD)      |  AU915-928    |
+| Guadeloupe (GP)      |  EU433  EU863-870    |
+| Guam (GU)      |  US902-928    |
+| Guatemala (GT)      |  AU915-928    |
+| Guernsey (GG)      |  EU433  EU863-870  AS923-3  |
+| Guinea (GN)      |  EU433      |
+| Guinea-Bissau (GW)      |      |
+| Guyana (GY)      |      |
+
