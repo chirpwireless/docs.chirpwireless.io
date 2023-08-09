@@ -82,8 +82,19 @@ The frequency plan provided here is intended for reference purposes only. While 
 ## D
 | Country      | Frequency Plan |
 | ----------- | ----------- |
-| Bhutan (BT)      |  EU433  EU863-870    |
-| Bhutan (BT)      |  EU433  EU863-870    |
-| Bhutan (BT)      |  EU433  EU863-870    |
-| Bhutan (BT)      |  EU433  EU863-870    |
+| Denmark (DK)      |  EU433  EU863-870   AS923-3 |
+| Djibouti (DJ)      |      |
+| Dominica (DM)      |  AU915-928  US902-928   |
+
+## E
+| Country      | Frequency Plan |
+| ----------- | ----------- |
+| Ecuador (EC)      |  AU915-928    |
+| Egypt (EG)      |  EU433  EU863-870 IN865-867   |
+| El Salvador (SV)      |  AU915-928    |
+| Equatorial Guinea (GQ)      |  EU433  EU863-870    |
+| Eritrea (ER)      |      |
+| Estonia (EE)      |  EU433  EU863-870 AS923-3   |
+| Eswatini (SZ)      |      |
+| Ethiopia (ET)      |      |
 
