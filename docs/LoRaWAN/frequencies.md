@@ -140,3 +140,16 @@ The frequency plan provided here is intended for reference purposes only. While 
 | Hong Kong (HK)      |  EU433  IN865-867  AS923-1  |
 | Hungary (HU)      |  EU433  EU863-870  AS923-3  |
 
+## I
+| Country      | Frequency Plan |
+| ----------- | ----------- |
+| Iceland (IS)      |  EU433  EU863-870    |
+| India (IN)      |  IN865-867    |
+| Indonesia (ID)      |  AS923-2    |
+| Iran (IR)      |  EU433  EU863-870  AS923-3  |
+| Iraq (IQ)      |      |
+| Ireland (IE)      |  EU433  EU863-870  AS923-3  |
+| Isle of Man (IM)      |  EU433  EU863-870  AS923-3  |
+| Israel (IL)      |     |
+| Italy (IT)      |  EU433  EU863-870    |
+
