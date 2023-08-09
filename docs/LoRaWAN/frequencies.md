@@ -130,3 +130,13 @@ The frequency plan provided here is intended for reference purposes only. While 
 | Guinea-Bissau (GW)      |      |
 | Guyana (GY)      |      |
 
+## H
+| Country      | Frequency Plan |
+| ----------- | ----------- |
+| Haiti (HT)      |      |
+| Heard Island and McDonald Islands (HM)      |  AU915-928 AS923-1    |
+| Holy See (VA)      |  EU433  EU863-870    |
+| Honduras (HN)      |  AU915-928    |
+| Hong Kong (HK)      |  EU433  IN865-867  AS923-1  |
+| Hungary (HU)      |  EU433  EU863-870  AS923-3  |
+
