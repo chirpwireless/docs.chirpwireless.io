@@ -172,3 +172,15 @@ The frequency plan provided here is intended for reference purposes only. While 
 | Kuwait (KW)      |  EU433  EU863-870  AS923-3  |
 | Kyrgyzstan (KG)     |     |
 
+## L
+| Country      | Frequency Plan |
+| ----------- | ----------- |
+| Lao People’s Democratic Republic (LA)      |  EU433  EU863-870  AS923-1  |
+| Latvia (LV)      |  EU433  EU863-870    |
+| Lebanon (LB)      |  EU433  EU863-870    |
+| Lesotho (LS)      |  EU433      |
+| Liberia (LR)      |      |
+| Libya (LY)      |      |
+| Liechtenstein (LI)      |  EU433  EU863-870  AS923-3  |
+| Lithuania (LT)      |  EU433  EU863-870    |
+| Luxembourg (LU)      |  EU433  EU863-870  AS923-3  |
