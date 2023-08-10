@@ -184,3 +184,30 @@ The frequency plan provided here is intended for reference purposes only. While 
 | Liechtenstein (LI)      |  EU433  EU863-870  AS923-3  |
 | Lithuania (LT)      |  EU433  EU863-870    |
 | Luxembourg (LU)      |  EU433  EU863-870  AS923-3  |
+
+## M
+| Country      | Frequency Plan |
+| ----------- | ----------- |
+| Macao (MO)      |  EU433  AS923-1    |
+| Macedonia (MK)      |  EU433  EU863-870    |
+| Madagascar (MG)      |  EU433  EU863-870    |
+| Malawi (MW)      |      |
+| Malaysia (MY)      |  EU433  AS923-1    |
+| Maldives (MV)      |      |
+| Mali (ML)      |  EU433      |
+| Malta (MT)      |  EU433  EU863-870    |
+| Marshall Islands (MH)      |      |
+| Martinique (MQ)      |  EU433  EU863-870    |
+| Mauritania (MR)      |  EU433  EU863-870    |
+| Mauritius (MU)      |  EU433      |
+| Mayotte (YT)     |  EU433  EU863-870    |
+| Mexico (MX)      |  US902-928    |
+| Micronesia (FM)      |      |
+| Moldova (MD)     |  EU433  EU863-870  AS923-3  |
+| Monaco (MC)      |  EU433  EU863-870    |
+| Mongolia (MN)      |      |
+| Montenegro (ME)      |  EU433  EU863-870    |
+| Montserrat (MS)      |  AU915-928    |
+| Morocco (MA)      |  EU433   |
+| Mozambique (MZ)      |  EU433  EU863-870    |
+| Mozambique (MZ)      |  EU433  AS923-1   |
