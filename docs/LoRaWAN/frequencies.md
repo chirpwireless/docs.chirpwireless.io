@@ -153,3 +153,22 @@ The frequency plan provided here is intended for reference purposes only. While 
 | Israel (IL)      |     |
 | Italy (IT)      |  EU433  EU863-870    |
 
+## J
+| Country      | Frequency Plan |
+| ----------- | ----------- |
+| Jamaica (JM)      |  AU915-928    |
+| Japan (JP)      |  AS923-1    |
+| Jersey (JE)      |   EU433  EU863-870    |
+| Jordan (JO)      |  AS923-3  EU433  EU863-870    |
+
+## K
+| Country      | Frequency Plan |
+| ----------- | ----------- |
+| Kazakhstan (KZ)      |  EU433      |
+| Kenya (KE)      |  EU433  EU863-870    |
+| Kiribati (KI)      |      |
+| Korea, Democratic Peoples’ Republic of (KP)      |      |
+| Korea, Republic of (KR)      |  KR920-923    |
+| Kuwait (KW)      |  EU433  EU863-870  AS923-3  |
+| Kyrgyzstan (KG)     |     |
+
