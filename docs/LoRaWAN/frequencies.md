@@ -233,3 +233,69 @@ The frequency plan provided here is intended for reference purposes only. While 
 | Country      | Frequency Plan |
 | ----------- | ----------- |
 | Oman (OM)     |  EU433  EU863-870    |
+
+## P
+| Country      | Frequency Plan |
+| ----------- | ----------- |
+| Pakistan (PK)     |  EU433  IN865-867 AS923-1    |
+| Palau (PW)     |      |
+| Palestine (PS)     |      |
+| Panama (PA)     |  AU915-928   |
+| Papua New Guinea (PG)     |  EU433  AU915-928 AS923-1    |
+| Paraguay (PY)     |  EU433  AU915-928    |
+| Peru (PE)     |  AU915-928   |
+| Philippines (PH)     |  EU433  EU863-870  AS923-3  |
+| Pitcairn (PN)     |     |
+| Poland (PL)     |  EU433  EU863-870 AS923-3   |
+| Portugal (PT)     |  EU433  EU863-870    |
+| Puerto Rico (PR)     |  US902-928    |
+
+## Q
+| Country      | Frequency Plan |
+| ----------- | ----------- |
+| Qatar (QA)     |  EU433  EU863-870  AS923-3  |
+
+## R
+| Country      | Frequency Plan |
+| ----------- | ----------- |
+| Reunion (RE)     |  EU433  EU863-870  |
+| Romania (RO)     |  EU433  EU863-870  |
+| Russian Federation (RU)     |  EU433  EU864-870 AS923-3 |
+| Rwanda (RW)     |  EU433  EU863-870  |
+
+## S
+| Country      | Frequency Plan |
+| ----------- | ----------- |
+| Saint Barthelemy (BL)     |  EU433  EU863-870  |
+| Saint Helena, Ascension and Tristan da Cunha (SH)     |    |
+| Saint Kitts and Nevis (KN)     |  AU915-928  |
+| Saint Lucia (LC)     |  AU915-928  |
+| Saint Martin (MF)     |  EU433  EU863-870  |
+| Saint Pierre and Miquelon (PM)     |  EU433  EU863-870  |
+| Saint Vincent and the Grenadines (VC)     |  AU915-928  |
+| Samoa (WS)     |  EU433  EU863-870  |
+| San Marino (SM)    |  EU433  EU863-870  |
+| Sao Tome and Principe (ST)     |    |
+| Saudi Arabia (SA)     |  EU433  EU863-870 AS923-3 |
+| Senegal (SN)     |    EU863-870  |
+| Serbia (RS)     |  EU433  EU863-870  |
+| Seychelles (SC)     |  EU433   |
+| Sierra Leone (SL)     |    |
+| Singapore (SG)     |  AS923-1 EU433  |
+| Sint Maarten (SX)     |  |
+| Slovakia (SK)     |  EU433  EU863-870 AS923-3  |
+| Slovenia (SI)     |  EU433  EU863-870 AS923-3 |
+| Solomon Islands (SB)     | AS923-1  |
+| Somalia (SO)     |  EU433  EU863-870 AS923-3 |
+| South Africa (ZA)     |  EU433  EU863-870  |
+| South Georgia and the South Sandwich Islands (GS)     |  EU433  EU863-870 AS923-3 |
+| South Sudan (SS)    |   |
+| Spain (ES)     |  EU433  EU863-870  |
+| Sri Lanka (LK)     |  EU433  AS923-1  |
+| Sudan (SD)     |    |
+| Suriname (SR)     |  AU915-928  |
+| Svalbard and Jan Mayen (SJ)     |  EU433  EU863-870 AS923-3  |
+| Sweden (SE)     |  EU433  EU863-870  |
+| Switzerland (CH)     |  EU433  EU863-870  |
+| Syrian Arab Republic (SY)     |  EU433  EU863-870 AS923-3 |
+
