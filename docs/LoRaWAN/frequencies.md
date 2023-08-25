@@ -346,10 +346,12 @@ The frequency plan provided here is intended for reference purposes only. While 
 
 ## Y
 | Country      | Frequency Plan |
+| ----------- | ----------- |
 | Yemen (YE)    |    |
 
 ##Z
 | Country      | Frequency Plan |
+| ----------- | ----------- |
 | Zambia (ZM)     |  EU433  EU863-870  |
 | Zimbabwe (ZW)     |  EU433  |
 
