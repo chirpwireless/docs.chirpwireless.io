@@ -209,5 +209,27 @@ The frequency plan provided here is intended for reference purposes only. While 
 | Montenegro (ME)      |  EU433  EU863-870    |
 | Montserrat (MS)      |  AU915-928    |
 | Morocco (MA)      |  EU433   |
-| Mozambique (MZ)      |  EU433  EU863-870    |
-| Mozambique (MZ)      |  EU433  AS923-1   |
+| Mozambique (MZ)      |      |
+| Myanmar (MM)      |  EU433  AS923-1   |
+
+## N
+| Country      | Frequency Plan |
+| ----------- | ----------- |
+| Namibia (NA)      |  EU433  EU863-870    |
+| Nauru (NR)      |      |
+| Nepal (NP)      |      |
+| Netherlands (NL)      |  EU433  EU863-870    |
+| New Caledonia (NC)      |  EU433  EU863-870    |
+| New-Zealand (NZ)      |  EU433  EU865-867 AU915-928 AS923-1    |
+| Nicaragua (NI)      |  EU433  EU863-870    |
+| Niger (NE)      |  IN865-867     |
+| Nigeria (NG)      |  EU433  EU863-870     |
+| Niue (NU)      |  EU433  IN865-867 AS923-1 AU915-928    |
+| Norfolk Island (NF)      |  AS923-1 AU915-928    |
+| Northern Mariana Islands (MP)      |  US902-928    |
+| Norway (NO)      |  EU433  EU863-870 AS923-3   |
+
+## O
+| Country      | Frequency Plan |
+| ----------- | ----------- |
+| Oman (OM)     |  EU433  EU863-870    |
