@@ -299,3 +299,24 @@ The frequency plan provided here is intended for reference purposes only. While 
 | Switzerland (CH)     |  EU433  EU863-870  |
 | Syrian Arab Republic (SY)     |  EU433  EU863-870 AS923-3 |
 
+## T
+| Country      | Frequency Plan |
+| ----------- | ----------- |
+| Taiwan, Province of China (TW)      |  AS923-1    |
+| Tajikistan (TJ)      |      |
+| Tanzania (TZ)      |  EU433  AS923-1    |
+| Thailand (TH)      |  EU433  AS923-1    |
+| Timor-Leste (TL)      |      |
+| Togo (TG)      |  EU433  |
+| Tokelau (TK)      |  EU433  IN865-867 AS923-1 AU915-928    |
+| Tonga (TO)      |  EU433  AU915-928    |
+| Trinidad and Tobago (TT)      |  AU915-928   |
+| Tunisia (TN)      |  EU433  EU863-870    |
+| Turkey (TR)      |  EU433  EU863-870    |
+| Turkmenistan (TM)      |      |
+| Turks and Caicos Islands (TC)      |  AU915-928    |
+| Tuvalu (TV)      |      |
+
+
+
+
