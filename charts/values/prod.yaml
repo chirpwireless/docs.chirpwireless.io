@@ -1,6 +1,6 @@
 ingress:
   enabled: true
-  className: "nginx"
+  className: "nginx-external"
   annotations:
     cert-manager.io/cluster-issuer: chirpwireless.io
   hosts:

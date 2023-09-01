@@ -11,6 +11,8 @@ include:
     file: helm.yaml
   - project: chirpwireless/ci
     file: deploy-gke-staging.yaml
+  - project: chirpwireless/ci
+    file: deploy-gke-prod.yaml
 
 variables:
   IMAGE_NAME: registry.gitlab.com/chirpwireless/docs-iot
@@ -48,10 +50,9 @@ deploy:prod:
     url: https://docs.chirpwireless.io
   variables:
     EKS_CLUSTER_NAME: prod
-    NAMESPACE: docs-iot
+    NAMESPACE: docs
     VALUES_FILE: ./charts/values/prod.yaml
   extends:
-    - .default
-    - .helm-deploy
+    - .deploy-gke-prod
   needs:
     - build
