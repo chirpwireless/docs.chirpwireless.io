@@ -33,6 +33,15 @@ const config = {
       }),
     ],
   ],
+  plugins: [
+    [
+      '@docusaurus/plugin-google-gtag',
+      {
+        trackingID: 'G-ML0YTPFH70',
+        anonymizeIP: true,
+      },
+    ],
+  ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
