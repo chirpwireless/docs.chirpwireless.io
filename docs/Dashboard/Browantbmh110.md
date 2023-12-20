@@ -10,7 +10,7 @@ Please make sure that your model is ending on 110, model 100 is not supported on
 
 Navigate to app.chirpwireless.io and log in to your dashboard
 
-image1
+![Simple](image1.jpg)
 
 ## Step2
 
