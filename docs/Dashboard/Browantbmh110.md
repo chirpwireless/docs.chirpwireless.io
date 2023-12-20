@@ -84,6 +84,7 @@ image11
 
 Click Save
 
+## Step 12
 
 Now You are ready to connect to your WiFi network on the main menu of gateway configuration screen, click on step 3 Set Network
  or choose a network if you see it below. Enter your Wifi Password. Once you are connected to WiFi you will loose your connection to the gateway.
