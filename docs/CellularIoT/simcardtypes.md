@@ -50,4 +50,4 @@ With nuSIM, the SIM function is integrated into the modem chip, eliminating the 
 
 SIM Card Formats
 
-![Simple](sims.jpg)
+![Simple](sims.png)
