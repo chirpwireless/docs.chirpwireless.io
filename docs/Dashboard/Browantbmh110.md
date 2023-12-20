@@ -4,25 +4,33 @@ sidebar_position: 5
 
 # Browan TBMH110
 
-Please make sure that your model is ending on 110, model 100 is not supported on Chirps Network
+Ensure that your model ends with 110, as the model 100 is not compatible with the Chirps Network.
 
 ## Step1
 
-Navigate to app.chirpwireless.io and log in to your dashboard
+Log in to your dashboard at app.chirpwireless.io
 
 ![Simple](image1.jpg)
 
+
+
 ## Step2
 
-Once on your dashboard Click On Gateways
+Once logged in, click on "Gateways" in your dashboard.
 
 ![Simple](image2.jpg)
 
+
+
+
 ## Step3
 
-Click on "Add gateway"
+Select "Add gateway"
 
 ![Simple](image3.jpg)
+
+
+
 
 ## Step4
 
@@ -30,51 +38,71 @@ Click on add 3d Party Gateway
 
 ![Simple](image3a.jpg)
 
+
+
+
 ## Step 5
 
-Fill Out Gateway Name, Select your countries LoRaWAN frequency, and enter gateway EUI (Printed on the back of the gateway)
+Enter the Gateway Name, select your country's LoRaWAN frequency, and input the Gateway EUI (located on the back of the gateway).
 
 ![Simple](image4.jpg)
 
+
+
+
 ## Step 6
 
-You will receive a message that gateway was successfully added. Now you need to copy the LNS Adress and save and extract the certificates from the Zip file.
+After adding the gateway, you'll receive a confirmation message. Copy the LNS Address, download and extract the certificates from the provided Zip file.
 
 ![Simple](image5.jpg)
 
+
+
+
 ## Step 7
 
-Click next and you will receive a message that your Gatewway has been added. 
+Click next to receive a notification confirming your Gateway has been added.
 
 ![Simple](image6.jpg)
 
+
+
+
+
 ## Step 8
 
-Now we need to connect to the gateway and load on it the certificates and connect it to WIFI so it can talk to the Chirp network.
-
-Plug in your Browan into an electrical outlet. Double check that yellow light is slowly blinking. (you are now ready to connect to it wia WiFi). Open Wifi connections and connect to your Browan Pro the password to the gateway is printed on the back label.
+To connect the gateway to the Chirp network, plug in your Browan to an electrical outlet. Ensure the yellow light blinks slowly (indicating readiness for WiFi connection). Connect to your Browan Pro via WiFi; the password is on the gateway's back label.
 
 ![Simple](image7.jpg)
 
+
+
+
 ## Step 9
 
-Once connected, open your Browser and surf to 192.168.4.1 **(!!!Important! Save connecting to WIFI as a last step. you will be disconnected from the gateway once WIFI is activated!!!!)**
+Once connected, navigate to 192.168.4.1 in your browser. **Important: Connect to WiFi last, as it will disconnect you from the gateway.**
 
 ![Simple](image8.jpg)
 
+
+
+
 ## Step 10
 
-Click on Step 1 and make sure that OTA is enabled. 
+Enable OTA by clicking on Step 1 in the gateway's menu.
 
 ![Simple](image9.jpg)
 
+
+
+
 ## Step 11
 
-Then Click on step 2 to configure LoRa settings. Select LoRa Basics station and scroll to the bottow.
+Click on step 2 "configure LoRa settings". Select LoRa Basics station and scroll to the bottom of the screen.
 
 Enter the LNS Address that you have copied during gateway registration on Chirps dashboard
 
-wss://lora-eu868.cloud.chirpwireless.io:443
+**wss://lora-eu868.cloud.chirpwireless.io:443**
 
 and upload 3 certificated that you have extracted from a Zip file in Step 6
 
@@ -82,20 +110,25 @@ and upload 3 certificated that you have extracted from a Zip file in Step 6
 
 ![Simple](image11.jpg)
 
-Click Save
+
+
+
+**Click Save**
+
+
+
 
 ## Step 12
 
-Now You are ready to connect to your WiFi network on the main menu of gateway configuration screen, click on step 3 Set Network
- or choose a network if you see it below. Enter your Wifi Password. Once you are connected to WiFi you will loose your connection to the gateway.
+To connect the gateway to your WiFi network, select "Set Network" or choose a visible network and enter the WiFi password. Note: You will lose connection to the gateway after connecting to WiFi.
+
+
 
 ![Simple](image12.jpg)
 
 
- If everything was configured correctly you will see a Solid green light on the gateway and the status of the gateway on Chirps dashboard will change to online.
 
 
+If set up correctly, a solid green light will appear on the gateway, and its status on the Chirps dashboard will show as online.
 
- Congratulations you are now ready to add your IoT devices and automate!
-
-
+**Congratulations, your IoT devices are now ready to be added and automated!**
