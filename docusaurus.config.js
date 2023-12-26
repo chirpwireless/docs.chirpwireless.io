@@ -50,7 +50,7 @@ const config = {
         title: 'Chirp Wireless',
         logo: {
           alt: 'Chirpwireless Logo',
-          src: 'img/logo.jpg',
+          src: 'img/logo.png',
           width: '40px',
         },
         items: [

@@ -11,4 +11,3 @@ Adding a gateway to a Chirp network is straightforward and can be accomplished i
 However, to ensure optimal performance, it's crucial to assess the signal quality before installing any devices. This can be done using a LoRaWAN network tester. A signal strength above -90dBm typically indicates the potential benefit of installing an indoor LoRaWAN gateway for improved connectivity.
 
 Following is a guide on how to integrate a third-party gateway into the Chirp network:
-
