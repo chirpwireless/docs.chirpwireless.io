@@ -62,7 +62,7 @@ Enable OTA by clicking on Step 1 in the gateway's menu.
 
 Click on step 2 "configure LoRa settings". Select LoRa Basics station and scroll to the bottom of the screen.
 
-Enter the LNS Address that you have copied during gateway registration on Chirps dashboard
+Enter the LNS Address that you have copied during gateway registration on Chirp's dashboard
 
 For example: **wss://lora-eu868.cloud.chirpwireless.io:443**
 
@@ -84,4 +84,4 @@ If set up correctly, a solid green light will appear on the gateway, and its sta
 
 ![Simple](browan10.png)
 
-**Congratulations, your IoT devices are now ready to be added and automated!**
+**Congratulations, your IoT devices are now ready to be added and you are ready to automate!**

@@ -51,7 +51,7 @@ const config = {
         logo: {
           alt: 'Chirpwireless Logo',
           src: 'img/logo.png',
-          width: '40px',
+          width: '35px',
         },
         items: [
           {
