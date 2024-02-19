@@ -45,6 +45,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: false,
+        respectPrefersColorScheme: false,
+      },
       image: 'img/logo_black.jpg',
       navbar: {
         title: 'Chirp Wireless',
@@ -66,6 +71,7 @@ const config = {
             position: 'right',
             label: 'Client Wiki',
           },
+          { to: 'https://docs.chirptoken.io/intro', label: 'Crypto Wiki', position: 'left' },
           { to: 'https://chirpwireless.io', label: 'Main site', position: 'left' },
         ],
       },
