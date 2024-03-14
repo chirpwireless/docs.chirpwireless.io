@@ -1,15 +1,20 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const lightCodeTheme = require('prism-react-renderer').themes.github;
+const darkCodeTheme = require('prism-react-renderer').themes.dracula;
+
+const organizationName = 'chirpwireless';
+const projectName = 'docs.chirpwireless.io';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Chirp',
   tagline: 'Chirp docs',
-  url: 'https://docs.chirpwireless.io',
-  baseUrl: '/',
+  url: 'https://chirpwireless.github.io',
+  baseUrl: '/docs.chirpwireless.io/',
+  organizationName,
+  projectName,
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -26,6 +31,7 @@ const config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
+          editUrl: `https://github.com/${organizationName}/${projectName}/tree/main/`,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
