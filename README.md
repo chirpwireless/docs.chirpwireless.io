@@ -1,6 +1,6 @@
-# Chirp Token Documentation
+# Chirp Wireless Documentation
 
-Welcome to the Chirp Token Documentation repository!
+Welcome to the Chirp Wireless Documentation repository!
 
 ## Local Development
 
@@ -18,11 +18,11 @@ To set up the development environment and preview the documentation locally, fol
 
 1. Clone this repository to your local machine:
    ```sh
-   git clone git@github.com:chirpwireless/docs.chirptoken.io.git
+   git clone git@github.com:chirpwireless/docs.chirpwireless.io.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd docs.chirptoken.io
+   cd docs.chirpwireless.io
    ```
 3. Install the dependencies using Yarn:
    ```sh
@@ -54,4 +54,4 @@ We welcome contributions from the community to improve and expand our documentat
 
 If you have any questions, feedback, or need support, feel free to contact us or open an issue in this repository. We're here to help!
 
-Thank you for choosing Chirp Token!
+Thank you for choosing Chirp Wireless!
