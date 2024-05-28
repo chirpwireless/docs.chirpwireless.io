@@ -184,20 +184,16 @@ Our services are "commercial items" as defined in Federal Acquisition Regulation
 
 **12.1** You agree, upon Chirp's reasonable request, to participate in reasonable marketing activities related to Chirp's services, including providing references to potential customers. You further agree that Chirp may use your name(s), trade name(s), and logo(s) on Chirp's website and promotional materials and disclose the fact that you are a customer of Chirp.
 
-**12.2** These Terms shall be governed by the laws of the State of Florida, USA, without reference to conflicts of law principles.
+**12.2** Any waiver or failure to enforce any provision of these Terms on one occasion will not be deemed a waiver of any other provision or of such provision on any other occasion.
 
-**12.3** All claims and disputes arising under or relating to these Terms are to be settled by binding arbitration in Florida or another location mutually agreeable by the parties.
+**12.3** These Terms, and your rights and obligations hereunder, may not be assigned, subcontracted, delegated, or otherwise transferred by you without Chirp's prior written consent, and any attempted assignment, subcontract, delegation, or transfer in violation of the foregoing will be null and void.
 
-**12.4** Any waiver or failure to enforce any provision of these Terms on one occasion will not be deemed a waiver of any other provision or of such provision on any other occasion.
+**12.4** The section headers in these Terms are for convenience only.
 
-**12.5** These Terms, and your rights and obligations hereunder, may not be assigned, subcontracted, delegated, or otherwise transferred by you without Chirp's prior written consent, and any attempted assignment, subcontract, delegation, or transfer in violation of the foregoing will be null and void.
+**12.5** Questions about these Terms can be directed toward help@chirpwireless.io.
 
-**12.6** The section headers in these Terms are for convenience only.
+**12.6** If any portion of these Terms is held invalid or unenforceable, that portion shall be construed in a manner to reflect, as nearly as possible, the original intention of the parties, and the remaining portions shall remain in full force and effect.
 
-**12.7** Questions about these Terms can be directed toward help@chirpwireless.io.
+**12.7** Where Chirp requires that you provide an email address, you are responsible for providing Chirp with your most current email address. In the event that the last email address you provided to Chirp is not valid, or for any reason is not capable of delivering to you any notices required/permitted by these Terms, Chirp's dispatch of the email containing such notice will nonetheless constitute effective notice. You may give notice to Chirp at the following address: help@chirpwireless.io. Such notice shall be deemed given when received by Chirp by letter delivered by a nationally recognized overnight delivery service or first-class postage prepaid mail at the above address.
 
-**12.8** If any portion of these Terms is held invalid or unenforceable, that portion shall be construed in a manner to reflect, as nearly as possible, the original intention of the parties, and the remaining portions shall remain in full force and effect.
-
-**12.9** Where Chirp requires that you provide an email address, you are responsible for providing Chirp with your most current email address. In the event that the last email address you provided to Chirp is not valid, or for any reason is not capable of delivering to you any notices required/permitted by these Terms, Chirp's dispatch of the email containing such notice will nonetheless constitute effective notice. You may give notice to Chirp at the following address: help@chirpwireless.io. Such notice shall be deemed given when received by Chirp by letter delivered by a nationally recognized overnight delivery service or first-class postage prepaid mail at the above address.
-
-**12.10** These Terms constitute the final, complete, and exclusive agreement of the parties with respect to the subject matter hereof and supersede and merge all prior discussions between the parties with respect to such subject matter.
+**12.8** These Terms constitute the final, complete, and exclusive agreement of the parties with respect to the subject matter hereof and supersede and merge all prior discussions between the parties with respect to such subject matter.
